@@ -1,4 +1,4 @@
-%%This document can be read, organized, and written by thinking about it like a tree, where the main idea is presented first (trunk), it is expanded upon/explained through other sentences (branches), which make it easy to come up with actionable ideas (leaves)%%
+%%This document can be read, organized, and written by thinking about it like a tree, where the main idea is presented first (trunk), it is expanded upon/explained through other sentences (branches), which make it easy to come up with actionable ideas (leaves). It seems best to keep each nested level collapsed and only open what one needs to see%%
 Goal
 	To accelerate humanity’s use of electrical technologies to increase their consciousness
 	Why

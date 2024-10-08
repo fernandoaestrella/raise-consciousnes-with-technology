@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "ac479319b813eb7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0055cf95ca39307",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "575428721f7bcada",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a345bfcf293055e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "71be4aa9f3ac41c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "912fef6ac5d6e2ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32a308b3d46eb4c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fc3dab7ad841169",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee599da91b859dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "54f2d2aa0201b86d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81c13e670196ff82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee9c3c0aaafdb61e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f45150d76c76e84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45a97b184d2602c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "575428721f7bcada",
+  "lastOpenFiles": [
+    "combine neuroscience with expansion of consciousness.md",
+    "to do/what i want to achieve.md",
+    "na.md",
+    "to do/expand consciousness.md",
+    "to do/how I want to be.md",
+    "to do/master plan.md",
+    "to do/master plan metadata.md",
+    "Test.md",
+    "Soil_food_webUSDA.jpg",
+    "Untitled.canvas",
+    "💎 4. Treasure Chest/analysis/increase consciousness with electrical technology/Cartel.pdf",
+    "Healing at Home.pdf",
+    "Fernando Estrella's Resume.pdf"
+  ]
+}
